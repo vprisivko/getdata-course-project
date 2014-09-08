@@ -21,7 +21,7 @@ The run_analysis.R script works as follows:
 
 ### Why the resulting data is tidy?
 
-The data is tidy because it satisfies the following 4 principles of the tidy data (look at [CodeBook.md](CodeBook.md) and [means.txt](means.txt):
+The data is tidy because it satisfies the following 4 principles of the tidy data (look at [CodeBook.md](CodeBook.md) and [means.txt](means.txt)):
 
 1. Each variable you measure should be in one column
 2. Each different observation of that variable should be in a different row
